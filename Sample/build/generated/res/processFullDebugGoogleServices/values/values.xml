@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://sukonbu-server-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">913276386757</string>
+    <string name="google_api_key" translatable="false">AIzaSyCL3LECLjQ2F_kqPmnIUwTg33R4P3YA5UQ</string>
+    <string name="google_app_id" translatable="false">1:913276386757:android:5a35c0790cf32ed79fdfac</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCL3LECLjQ2F_kqPmnIUwTg33R4P3YA5UQ</string>
+    <string name="google_storage_bucket" translatable="false">sukonbu-server.appspot.com</string>
+    <string name="project_id" translatable="false">sukonbu-server</string>
+</resources>

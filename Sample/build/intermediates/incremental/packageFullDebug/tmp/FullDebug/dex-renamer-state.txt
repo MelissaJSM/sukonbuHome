@@ -1,0 +1,4 @@
+#Mon Dec 18 16:49:13 KST 2023
+base.0=C\:\\sukonbuHome\\Sample\\build\\intermediates\\dex\\FullDebug\\mergeDexFullDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

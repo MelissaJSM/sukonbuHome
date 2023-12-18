@@ -1,0 +1,73 @@
+<resources>
+  <string name="app_name">Demo</string>
+  <array name="sukonbu"> <!-- 스콘부쨩 데이터값 배열 처리-->
+    <item>@raw/sukonbu_00</item> <!-- 영 일 이 삼 사 오-->
+    <item>@raw/sukonbu_01</item>
+    <item>@raw/sukonbu_02</item>
+    <item>@raw/sukonbu_03</item>
+    <item>@raw/sukonbu_04</item>
+    <item>@raw/sukonbu_05</item>
+    <item>@raw/sukonbu_06</item>
+    <item>@raw/sukonbu_07</item>
+    <item>@raw/sukonbu_08</item>
+    <item>@raw/sukonbu_09</item>
+    <item>@raw/sukonbu_10</item> <!-- 십 -->
+    <item>@raw/sukonbu_11</item> <!-- 11 -->
+    <item>@raw/sukonbu_12</item> <!-- 12 -->
+    <item>@raw/sukonbu_13</item> <!-- 천둥번개 침 -->
+    <item>@raw/sukonbu_14</item> <!-- 이슬비 -->
+    <item>@raw/sukonbu_15</item> <!-- 비 내림 -->
+    <item>@raw/sukonbu_16</item> <!-- 눈 내림 -->
+    <item>@raw/sukonbu_17</item> <!-- 맑음 -->
+    <item>@raw/sukonbu_18</item> <!-- 구름 낌 -->
+    <item>@raw/sukonbu_19</item> <!-- 태풍 침 -->
+    <item>@raw/sukonbu_20</item> <!-- 안개 낌 -->
+    <item>@raw/sukonbu_21</item> <!-- 흐림-->
+    <item>@raw/sukonbu_20</item> <!-- 안개 -->
+    <item>@raw/sukonbu_23</item> <!-- 먼지많음 -->
+    <item>@raw/sukonbu_24</item> <!-- 매우흐림 -->
+    <item>@raw/sukonbu_25</item> <!-- 모래날림 -->
+    <item>@raw/sukonbu_23</item> <!-- 먼지많음 -->
+    <item>@raw/sukonbu_24</item> <!-- 매우흐림 -->
+    <item>@raw/sukonbu_28</item> <!-- 집중호우 -->
+    <item>@raw/sukonbu_29</item> <!-- 안녕하세요 멜리사님 -->
+    <item>@raw/sukonbu_30</item> <!-- 월 -->
+    <item>@raw/sukonbu_31</item> <!-- 일 -->
+    <item>@raw/sukonbu_32</item> <!-- 오늘의 날씨는 -->
+    <item>@raw/sukonbu_33</item> <!-- 이고 현재 온도는 -->
+    <item>@raw/sukonbu_34</item> <!-- 도 이며 최대 온도는 -->
+    <item>@raw/sukonbu_35</item> <!-- 도 이고 최소 온도는 -->
+    <item>@raw/sukonbu_36</item> <!-- 영하 -->
+    <item>@raw/sukonbu_37</item> <!-- 도 입니다. 회사까지 도착 시간은 -->
+    <item>@raw/sukonbu_38</item> <!-- 분 소요될 듯 싶어요 준비해서 출발하도록 하죠 -->
+
+
+
+
+
+
+
+
+  </array> <!-- 콘 콘 키츠네 -->
+
+  <string-array name="weatherData">
+    <item>Thunderstorm</item>  <!-- 처리방식으로 보아 +13이 최적일 듯 하다.-->
+    <item>Drizzle</item>
+    <item>Rain</item>
+    <item>Snow</item>
+    <item>Clear</item>
+    <item>Clouds</item>
+    <item>Tornado</item>
+    <item>Mist</item>
+    <item>Smoke</item>
+    <item>Haze</item>
+    <item>Dust</item>
+    <item>Fog</item>
+    <item>Sand</item>
+    <item>Dust</item>
+    <item>Ash</item>
+    <item>Squall</item>
+  </string-array>
+
+
+</resources>

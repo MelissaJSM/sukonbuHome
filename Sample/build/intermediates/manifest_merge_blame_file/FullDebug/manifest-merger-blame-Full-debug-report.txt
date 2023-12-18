@@ -1,0 +1,213 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.live2d.demo"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+9        android:targetSdkVersion="33" />
+10
+11    <uses-feature
+11-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:47:5-49:35
+12        android:glEsVersion="0x00020000"
+12-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:48:9-41
+13        android:required="true" />
+13-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:49:9-32
+14
+15    <uses-permission android:name="android.permission.WAKE_LOCK" />
+15-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:5:5-68
+15-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:5:22-65
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:8:5-67
+16-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:8:22-64
+17    <uses-permission android:name="android.permission.BLUETOOTH" />
+17-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:10:5-68
+17-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:10:22-65
+18    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" /> <!-- android 12 add -->
+18-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:11:5-74
+18-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:11:22-71
+19    <!--
+20  Needed only if your app looks for Bluetooth devices.
+21             If your app doesn't use Bluetooth scan results to derive physical
+22             location information, you can strongly assert that your app
+23             doesn't derive physical location.
+24    -->
+25    <uses-permission android:name="android.permission.BLUETOOTH_SCAN" />
+25-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:18:5-73
+25-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:18:22-70
+26    <!--
+27  Needed only if your app makes the device discoverable to Bluetooth
+28      devices.
+29    -->
+30    <uses-permission android:name="android.permission.BLUETOOTH_ADVERTISE" />
+30-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:23:5-78
+30-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:23:22-75
+31    <!--
+32  Needed only if your app communicates with already-paired Bluetooth
+33           devices.
+34    -->
+35    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" /> <!-- bibo01 : hardware option -->
+35-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:28:5-76
+35-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:28:22-73
+36    <!-- android 12 add -->
+37    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+37-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:31:5-81
+37-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:31:22-78
+38    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+38-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:32:5-79
+38-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:32:22-76
+39    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+39-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:33:5-85
+39-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:33:22-82
+40    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" />
+40-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:34:5-95
+40-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:34:22-92
+41    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+41-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:36:5-37:47
+41-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:36:22-70
+42    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+42-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:39:5-79
+42-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:39:22-77
+43    <uses-permission android:name="android.permission.ACCESS_MEDIA_LOCATION" />
+43-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:40:5-79
+43-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:40:22-77
+44    <uses-permission
+44-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:41:5-44:40
+45        android:name="android.permission.MANAGE_EXTERNAL_STORAGE"
+45-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:42:9-66
+46        android:minSdkVersion="30" /> <!-- Needed for Bluetooth scanning on Android M and above. -->
+46-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:43:9-35
+47    <uses-permission-sdk-23 android:name="android.permission.ACCESS_COARSE_LOCATION" />
+47-->[com.estimote:sdk:0.10.4] C:\Users\Administrator\.gradle\caches\transforms-3\5c8d8dc07abb73916dfda535ee161f05\transformed\jetified-sdk-0.10.4\AndroidManifest.xml:13:5-88
+47-->[com.estimote:sdk:0.10.4] C:\Users\Administrator\.gradle\caches\transforms-3\5c8d8dc07abb73916dfda535ee161f05\transformed\jetified-sdk-0.10.4\AndroidManifest.xml:13:29-85
+48
+49    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+49-->[com.estimote:sdk:0.10.4] C:\Users\Administrator\.gradle\caches\transforms-3\5c8d8dc07abb73916dfda535ee161f05\transformed\jetified-sdk-0.10.4\AndroidManifest.xml:16:5-79
+49-->[com.estimote:sdk:0.10.4] C:\Users\Administrator\.gradle\caches\transforms-3\5c8d8dc07abb73916dfda535ee161f05\transformed\jetified-sdk-0.10.4\AndroidManifest.xml:16:22-76
+50
+51    <uses-feature
+51-->[com.estimote:sdk:0.10.4] C:\Users\Administrator\.gradle\caches\transforms-3\5c8d8dc07abb73916dfda535ee161f05\transformed\jetified-sdk-0.10.4\AndroidManifest.xml:18:5-20:36
+52        android:name="android.hardware.bluetooth_le"
+52-->[com.estimote:sdk:0.10.4] C:\Users\Administrator\.gradle\caches\transforms-3\5c8d8dc07abb73916dfda535ee161f05\transformed\jetified-sdk-0.10.4\AndroidManifest.xml:19:9-53
+53        android:required="false" />
+53-->[com.estimote:sdk:0.10.4] C:\Users\Administrator\.gradle\caches\transforms-3\5c8d8dc07abb73916dfda535ee161f05\transformed\jetified-sdk-0.10.4\AndroidManifest.xml:20:9-33
+54
+55    <application
+55-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:51:5-95:19
+56        android:allowBackup="true"
+56-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:52:9-35
+57        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+57-->[androidx.core:core:1.3.1] C:\Users\Administrator\.gradle\caches\transforms-3\118c99f55116ac073d87f5ca784df2ee\transformed\core-1.3.1\AndroidManifest.xml:24:18-86
+58        android:debuggable="true"
+59        android:extractNativeLibs="true"
+60        android:icon="@mipmap/ic_launcher"
+60-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:53:9-43
+61        android:label="@string/app_name"
+61-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:54:9-41
+62        android:requestLegacyExternalStorage="true"
+62-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:57:9-52
+63        android:roundIcon="@mipmap/ic_launcher_round"
+63-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:55:9-54
+64        android:supportsRtl="true"
+64-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:56:9-35
+65        android:testOnly="true"
+66        android:theme="@android:style/Theme.NoTitleBar" >
+66-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:58:9-56
+67        <activity
+67-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:73:9-84:20
+68            android:name="com.live2d.demo.full.MainActivity"
+68-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:74:13-46
+69            android:configChanges="orientation|screenSize"
+69-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:75:13-59
+70            android:exported="true"
+70-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:76:13-36
+71            android:screenOrientation="landscape"
+71-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:77:13-50
+72            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+72-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:78:13-69
+73            <intent-filter>
+73-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:79:13-83:29
+74                <action android:name="android.intent.action.MAIN" />
+74-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:80:17-69
+74-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:80:25-66
+75
+76                <category android:name="android.intent.category.LAUNCHER" />
+76-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:82:17-77
+76-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:82:27-74
+77            </intent-filter>
+78        </activity>
+79
+80        <receiver
+80-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:60:9-71:20
+81            android:name="com.live2d.demo.full.DeviceAdmin"
+81-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:61:13-45
+82            android:exported="true"
+82-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:64:13-36
+83            android:label="@string/app_name"
+83-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:62:13-45
+84            android:permission="android.permission.BIND_DEVICE_ADMIN" >
+84-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:63:13-70
+85            <meta-data
+85-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:65:13-67:52
+86                android:name="android.app.device_admin"
+86-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:66:17-56
+87                android:resource="@xml/policies" />
+87-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:67:17-49
+88
+89            <intent-filter>
+89-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:68:13-70:29
+90                <action android:name="android.app.action.DEVICE_ADMIN_ENABLED" />
+90-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:69:17-82
+90-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:69:25-79
+91            </intent-filter>
+92        </receiver>
+93
+94        <activity
+94-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:86:9-90:47
+95            android:name="com.live2d.demo.full.ErrorActivity"
+95-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:87:13-47
+96            android:configChanges="orientation|screenSize"
+96-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:88:13-59
+97            android:exported="false"
+97-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:89:13-37
+98            android:launchMode="singleTask" />
+98-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:90:13-44
+99
+100        <meta-data
+100-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:92:9-94:36
+101            android:name="com.google.firebase.ml.vision.DEPENDENCIES"
+101-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:93:13-70
+102            android:value="face" />
+102-->C:\sukonbuHome\Sample\src\main\AndroidManifest.xml:94:13-33
+103
+104        <service
+104-->[com.estimote:sdk:0.10.4] C:\Users\Administrator\.gradle\caches\transforms-3\5c8d8dc07abb73916dfda535ee161f05\transformed\jetified-sdk-0.10.4\AndroidManifest.xml:23:9-25:40
+105            android:name="com.estimote.sdk.service.BeaconService"
+105-->[com.estimote:sdk:0.10.4] C:\Users\Administrator\.gradle\caches\transforms-3\5c8d8dc07abb73916dfda535ee161f05\transformed\jetified-sdk-0.10.4\AndroidManifest.xml:24:13-66
+106            android:exported="false" />
+106-->[com.estimote:sdk:0.10.4] C:\Users\Administrator\.gradle\caches\transforms-3\5c8d8dc07abb73916dfda535ee161f05\transformed\jetified-sdk-0.10.4\AndroidManifest.xml:25:13-37
+107        <service android:name="com.estimote.sdk.repackaged.dfu_v0_6_1.no.nordicsemi.android.dfu.DfuBaseService" />
+107-->[com.estimote:sdk:0.10.4] C:\Users\Administrator\.gradle\caches\transforms-3\5c8d8dc07abb73916dfda535ee161f05\transformed\jetified-sdk-0.10.4\AndroidManifest.xml:26:9-115
+107-->[com.estimote:sdk:0.10.4] C:\Users\Administrator\.gradle\caches\transforms-3\5c8d8dc07abb73916dfda535ee161f05\transformed\jetified-sdk-0.10.4\AndroidManifest.xml:26:18-112
+108
+109        <activity
+109-->[com.estimote:sdk:0.10.4] C:\Users\Administrator\.gradle\caches\transforms-3\5c8d8dc07abb73916dfda535ee161f05\transformed\jetified-sdk-0.10.4\AndroidManifest.xml:28:9-30:56
+110            android:name="com.estimote.sdk.DefaultRequirementsCheckerCallback$Activity"
+110-->[com.estimote:sdk:0.10.4] C:\Users\Administrator\.gradle\caches\transforms-3\5c8d8dc07abb73916dfda535ee161f05\transformed\jetified-sdk-0.10.4\AndroidManifest.xml:29:13-88
+111            android:theme="@style/Theme.Transparent" />
+111-->[com.estimote:sdk:0.10.4] C:\Users\Administrator\.gradle\caches\transforms-3\5c8d8dc07abb73916dfda535ee161f05\transformed\jetified-sdk-0.10.4\AndroidManifest.xml:30:13-53
+112
+113        <receiver android:name="com.estimote.sdk.service.BeaconService$ScanAlarmBroadcastReceiver" />
+113-->[com.estimote:sdk:0.10.4] C:\Users\Administrator\.gradle\caches\transforms-3\5c8d8dc07abb73916dfda535ee161f05\transformed\jetified-sdk-0.10.4\AndroidManifest.xml:32:9-102
+113-->[com.estimote:sdk:0.10.4] C:\Users\Administrator\.gradle\caches\transforms-3\5c8d8dc07abb73916dfda535ee161f05\transformed\jetified-sdk-0.10.4\AndroidManifest.xml:32:19-99
+114
+115        <service
+115-->[com.estimote:sdk:0.10.4] C:\Users\Administrator\.gradle\caches\transforms-3\5c8d8dc07abb73916dfda535ee161f05\transformed\jetified-sdk-0.10.4\AndroidManifest.xml:34:9-36:40
+116            android:name="com.estimote.sdk.connection.internal.DeviceConnectionProviderService"
+116-->[com.estimote:sdk:0.10.4] C:\Users\Administrator\.gradle\caches\transforms-3\5c8d8dc07abb73916dfda535ee161f05\transformed\jetified-sdk-0.10.4\AndroidManifest.xml:35:13-96
+117            android:exported="false" />
+117-->[com.estimote:sdk:0.10.4] C:\Users\Administrator\.gradle\caches\transforms-3\5c8d8dc07abb73916dfda535ee161f05\transformed\jetified-sdk-0.10.4\AndroidManifest.xml:36:13-37
+118    </application>
+119
+120</manifest>

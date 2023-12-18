@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "913276386757",
+    "firebase_url": "https://sukonbu-server-default-rtdb.firebaseio.com",
+    "project_id": "sukonbu-server",
+    "storage_bucket": "sukonbu-server.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913276386757:android:d4eae811073572d29fdfac",
+        "android_client_info": {
+          "package_name": "com.example.sukonbu_controller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL3LECLjQ2F_kqPmnIUwTg33R4P3YA5UQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913276386757:android:5a35c0790cf32ed79fdfac",
+        "android_client_info": {
+          "package_name": "com.live2d.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL3LECLjQ2F_kqPmnIUwTg33R4P3YA5UQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913276386757:android:2b0754457add31429fdfac",
+        "android_client_info": {
+          "package_name": "com.live2d.demo.full"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL3LECLjQ2F_kqPmnIUwTg33R4P3YA5UQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

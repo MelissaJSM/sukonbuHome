@@ -1,0 +1,310 @@
+[
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_in_etc.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_in_etc.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_36.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_36.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "com.live2d.demo.Sample-Full-13:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_10.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_10.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/xml_policies.xml.flat",
+        "source": "com.live2d.demo.Sample-main-22:/xml/policies.xml"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.live2d.demo.Sample-main-22:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_cut.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_cut.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_25.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_25.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_out_five.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_out_five.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_17.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_17.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_in_dinner.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_in_dinner.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/layout_activity_error.xml.flat",
+        "source": "com.live2d.demo.Sample-main-22:/layout/activity_error.xml"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_out.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_out.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_32.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_32.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/drawable_back_class_normal.png.flat",
+        "source": "com.live2d.demo.Sample-main-22:/drawable/back_class_normal.png"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_09.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_09.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_13.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_13.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "com.live2d.demo.Sample-Full-13:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_28.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_28.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/layout_activity_main.xml.flat",
+        "source": "com.live2d.demo.Sample-main-22:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_21.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_21.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_errormusic.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/errormusic.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.live2d.demo.Sample-main-22:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_02.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_02.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_in_dawn.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_in_dawn.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_18.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_18.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_37.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_37.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_05.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_05.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_toiletoff.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_toiletoff.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.live2d.demo.Sample-main-22:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_30.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_30.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.live2d.demo.Sample-Full-13:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_11.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_11.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.live2d.demo.Sample-main-22:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_24.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_24.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.live2d.demo.Sample-main-22:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.live2d.demo.Sample-main-22:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_33.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_33.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_error.gif.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/error.gif"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_08.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_08.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_20.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_20.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.live2d.demo.Sample-main-22:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_01.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_01.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_14.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_14.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_23.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_23.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_19.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_19.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_goodmorning.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_goodmorning.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_38.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_38.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_sleep.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_sleep.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.live2d.demo.Sample-Full-13:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_12.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_12.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_toileton.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_toileton.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_in_afternoon.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_in_afternoon.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_in_morning.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_in_morning.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_04.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_04.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.live2d.demo.Sample-Full-13:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "com.live2d.demo.Sample-Full-13:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_31.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_31.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.live2d.demo.Sample-main-22:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_15.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_15.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.live2d.demo.Sample-main-22:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_00.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_00.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.live2d.demo.Sample-main-22:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_34.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_34.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_07.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_07.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_cutre.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_cutre.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_out_re.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_out_re.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_03.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_03.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_35.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_35.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_16.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_16.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "com.live2d.demo.Sample-Full-13:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_29.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_29.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_in_re.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_in_re.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.live2d.demo.Sample-main-22:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/raw_sukonbu_06.wav.flat",
+        "source": "com.live2d.demo.Sample-main-22:/raw/sukonbu_06.wav"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.live2d.demo.Sample-Full-13:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.live2d.demo.Sample-merged_res-18:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.live2d.demo.Sample-main-22:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    }
+]
